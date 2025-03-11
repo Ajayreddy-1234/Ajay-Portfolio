@@ -12,22 +12,28 @@ const Education = () => {
             <Grid item sm={12} md={6}>
               <div className="education-items">
                 <div className="education-item">
-                  <h2>Indian Institute of Technology (ISM) Dhanbad</h2>
-                  <h3>B.Tech in Computer Science & Engineering</h3>
-                  <h3>2020 - 2024</h3>
-                  <p>CGPA - 8.77</p>
+                  <h2>Indiana University, Bloomington</h2>
+                  <h3>Masters in Computer Science</h3>
+                  <h3>2023 - 2025</h3>
+                  <p>GPA - 3.93 / 4.00</p>
                 </div>
                 <div className="education-item">
-                  <h2>Sidhhartha Public School, New Delhi</h2>
-                  <h3>Senior Seconday Education - CBSE</h3>
-                  <h3>2017 - 2019</h3>
-                  <p>Scored 95%</p>
+                  <h2>Indian Institute of Technology (IIT), Dhanbad</h2>
+                  <h3>Bachelors in Technology</h3>
+                  <h3>2018 - 2022</h3>
+                  <p>GPA - 8.11 / 10.00</p>
                 </div>
                 <div className="education-item">
-                  <h2>Vikash Convent School, Karanjia</h2>
-                  <h3>Secondary Education - ICSE</h3>
-                  <h3>2017</h3>
-                  <p>Scored 97.5%</p>
+                  <h2>Sri Chaitanya Junior College</h2>
+                  <h3>Senior Seconday Education - State Board</h3>
+                  <h3>2016 - 2018</h3>
+                  <p>Scored 985 / 1000</p>
+                </div>
+                <div className="education-item">
+                  <h2>Vaagdevi High School</h2>
+                  <h3>Secondary Education - SSC</h3>
+                  <h3>2016</h3>
+                  <p>GPA - 10 / 10</p>
                 </div>
               </div>
             </Grid>
