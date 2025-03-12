@@ -5,7 +5,7 @@ import "./App.css";
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/Ajay-Portfolio">
       <Routes>
         <Route exact path="/" element={<LandingPage />} />
         <Route exact path="*" element={<ErrorPage />}></Route>
