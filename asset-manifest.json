@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Ajay-Portfolio/static/css/main.7d377e2b.css",
-    "main.js": "/Ajay-Portfolio/static/js/main.2f55ff74.js",
+    "main.css": "/Ajay-Portfolio/static/css/main.3d704af6.css",
+    "main.js": "/Ajay-Portfolio/static/js/main.ba211698.js",
     "static/media/mongoDB_logo.png": "/Ajay-Portfolio/static/media/mongoDB_logo.6170bacefd8a1f69ca74.png",
     "static/media/jquery_logo.png": "/Ajay-Portfolio/static/media/jquery_logo.6bedb2d755f28eb0a2cb.png",
     "static/media/Opt_1.JPG": "/Ajay-Portfolio/static/media/Opt_1.318f521af547b9cb504f.JPG",
@@ -27,11 +27,11 @@
     "static/media/mysql_logo.png": "/Ajay-Portfolio/static/media/mysql_logo.a04abbf76b39676bc4d9.png",
     "static/media/redux_logo.png": "/Ajay-Portfolio/static/media/redux_logo.6d131244878aa86f4dc9.png",
     "index.html": "/Ajay-Portfolio/index.html",
-    "main.7d377e2b.css.map": "/Ajay-Portfolio/static/css/main.7d377e2b.css.map",
-    "main.2f55ff74.js.map": "/Ajay-Portfolio/static/js/main.2f55ff74.js.map"
+    "main.3d704af6.css.map": "/Ajay-Portfolio/static/css/main.3d704af6.css.map",
+    "main.ba211698.js.map": "/Ajay-Portfolio/static/js/main.ba211698.js.map"
   },
   "entrypoints": [
-    "static/css/main.7d377e2b.css",
-    "static/js/main.2f55ff74.js"
+    "static/css/main.3d704af6.css",
+    "static/js/main.ba211698.js"
   ]
 }
