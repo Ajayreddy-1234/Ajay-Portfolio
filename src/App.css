@@ -11,7 +11,7 @@
 :root {
   --mainColor: rgb(50, 50, 50);
   --mainColorDark: rgb(35, 35, 35);
-  --secondaryColor: #ff7043;
+  --secondaryColor: #008080;
   --textColor: #eee;
 }
 /* width */
@@ -70,7 +70,7 @@ nav a {
 .nav-logo {
   font-family: Agustina Regular;
   font-size: 2rem;
-  margin: 0 0.05rem;
+  margin: 0 0rem;
 }
 
 nav a:hover {

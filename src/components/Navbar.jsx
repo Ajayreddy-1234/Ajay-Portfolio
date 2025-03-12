@@ -15,7 +15,7 @@ const CustomLinearProgress = styled(LinearProgress)(({ theme }) => ({
   },
   [`& .${linearProgressClasses.bar}`]: {
     borderRadius: 5,
-    backgroundColor: "#ff7043",
+    backgroundColor: "#323232",
   },
 }));
 const Navbar = () => {
