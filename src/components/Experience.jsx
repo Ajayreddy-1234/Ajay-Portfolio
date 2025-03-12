@@ -4,8 +4,7 @@ import {
   VerticalTimelineElement,
 } from "react-vertical-timeline-component";
 import "react-vertical-timeline-component/style.min.css";
-// const secondayColor = 'rgb(139,0,255)';
-// const primaryColor = 'rgb(35,35,35)';
+
 const color = "linear-gradient(#ff7043, #bf360c)";
 const Experience = () => {
   return (
@@ -20,9 +19,8 @@ const Experience = () => {
             borderRadius: "1rem",
           }}
           contentArrowStyle={{ borderRight: `10px solid  #fff` }}
-          date="June 2024 - Present"
-          iconStyle={{ background: `${color}`, color: "#fff" }}
-        >
+          date="May 2024 - Dec 2024"
+          iconStyle={{ background: `${color}`, color: "#fff" }}>
           <h3
             className="vertical-timeline-element-title"
             style={{ fontSize: "1.2rem" }}
@@ -35,7 +33,7 @@ const Experience = () => {
           <p style={{ lineHeight: "1.2rem" }}>
             Just started working here.
           </p>
-        </VerticalTimelineElement>
+      </VerticalTimelineElement>
         <VerticalTimelineElement
           className="vertical-timeline-element--work experience-item"
           contentStyle={{
