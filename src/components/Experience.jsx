@@ -5,12 +5,17 @@ import {
 } from "react-vertical-timeline-component";
 import "react-vertical-timeline-component/style.min.css";
 
-const color = "linear-gradient(#008080, #005f5f)";
+const color = "linear-gradient(90deg, rgb(35, 35, 35) 0%, rgb(55, 55, 55) 100%)";
 const Experience = () => {
   return (
     <div className="div-item div-item-left" id="experience">
       <h1>Experience</h1>
-      <VerticalTimeline layout="1-column" className="experience-items">
+      <style>{`
+        .vertical-timeline {
+          max-width: 1600px !important;
+        }
+      `}</style>
+      <VerticalTimeline className="experience-items">
       <VerticalTimelineElement
           className="vertical-timeline-element--work experience-item"
           contentStyle={{
