@@ -33,6 +33,14 @@ const Skills = () => {
           <div className="skill-section">
             <h2>Languages</h2>
             <div className="skill-items">
+            <div className="skill-item">
+                <div className="skill-img-plane">
+                  <div className="skill-img">
+                    <img src={python_logo} alt="python"></img>
+                  </div>
+                </div>
+                <div className="skill-text">Python</div>
+              </div>
               <div className="skill-item">
                 <div className="skill-img-plane">
                   <div className="skill-img">
@@ -49,14 +57,7 @@ const Skills = () => {
                 </div>
                 <div className="skill-text">C++</div>
               </div>
-              <div className="skill-item">
-                <div className="skill-img-plane">
-                  <div className="skill-img">
-                    <img src={python_logo} alt="python"></img>
-                  </div>
-                </div>
-                <div className="skill-text">Python</div>
-              </div>
+              
               
               <div className="skill-item">
                 <div className="skill-img-plane">

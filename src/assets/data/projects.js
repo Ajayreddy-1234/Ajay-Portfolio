@@ -1,47 +1,45 @@
 const projects = [
-  
   {
-    name: "MedEZ",
+    name: "Ignite Sports Venue Management System",
     description:
-      "A website tool that helps manage medication by extracting medicine details from a prescription, comparing prices across websites and setting reminders on google calendars.",
-    link: "https://github.com/milan0027/MedEZ",
-    techStack: ["React", "Redux", "Node", "Python", "MongoDB", "Flask"],
+      "A full-stack web solution for managing sports venues and activities. It includes robust venue and activity management, an efficient booking system, secure authentication, email notifications, integrated calendar features, and a responsive React front-end.",
+    link: "https://github.com/Ajayreddy-1234/Ignite-Sports-Venue-Managment-System",
+    techStack: ["Node.js", "Express", "React", "MySQL", "JWT"],
   },
   {
-    name: "Charity Plus",
+    name: "AI-Driven Waste Sorting System",
     description:
-      "A website where organizations can create content for their upcoming charitable events & posts about major work they do.",
-    link: "https://github.com/milan0027/charityplus",
-    techStack: ["React", "Redux", "Node", "Express", "MongoDB"],
+      "An innovative hackathon project that leverages AI to automate waste sorting. Developed with Python and PyTorch, it utilizes a Faster R-CNN architecture with advanced data augmentation and GPU acceleration to achieve high object detection accuracy.",
+    link: "https://github.com/Ajayreddy-1234/KanyaRaasi-IUB-Hackathon",
+    techStack: ["Python", "PyTorch", "Faster R-CNN", "OpenCV"],
   },
   {
-    name: "Webbid",
+    name: "Car Rental Management System",
     description:
-      "A website to put your rare and demanding products for bidding, that fetches it a higher value. Users can track their items and use E-wallet for transactions.",
-    link: "https://github.com/milan0027/webbid",
-    techStack: ["EJS", "Node", "Express", "MongoDB"],
+      "A comprehensive Flask-based web application for managing a car rental service. It features intuitive vehicle listings with full CRUD operations, insightful data visualizations (bar and scatter charts), CSV data import functionality, and secure user authentication.",
+    link: "https://github.com/Ajayreddy-1234/Car-Rental-Management-System",
+    techStack: ["Flask", "Python", "MySQL", "JavaScript"],
   },
   {
-    name: "Face Detection",
+    name: "Neonix OS",
     description:
-      "A realtime face detection application that takes image frames over a socket connection and analyze it to determine presence of multiple faces and whether the face is covered or uncovered.",
-    link: "https://github.com/milan0027/face-detect",
-    techStack: ["Python", "Flask", "HTML", "CSS", "Javascript", "AWS"],
+      "A lightweight, modular operating system designed for educational and experimental purposes. It offers a modular architecture, basic multitasking, process management, and a simplified file system to explore OS internals.",
+    link: "https://github.com/Ajayreddy-1234/Neonix-OS",
+    techStack: ["C", "Assembly", "Linux"],
   },
   {
-    name: "FastMeds",
+    name: "That's My Job",
     description:
-      "A website where users can find medicines and hospital beds from the nearest locations. Medical stores can manage their inventory and track the sold/available medicines.",
-    link: "https://github.com/milan0027/fastmeds",
-    techStack: ["React", "Redux", "Node", "Express", "MongoDB"],
+      "A robust Laravel-based platform connecting freelancers with recruiters. It features dedicated modules for freelancers, recruiters, and administrators, along with advanced time tracking using JavaScript events to monitor productivity.",
+    link: "https://github.com/Ajayreddy-1234/Thatsmyjob",
+    techStack: ["Laravel", "PHP", "MySQL", "jQuery"],
   },
-  
   {
-    name: "PetISM",
+    name: "Influencer Marketing",
     description:
-      "A website where students can socially post their petitions on various issues with features to upvote/downvote and share the post on other social medias.",
-    link: "https://github.com/milan0027/college_petition_web",
-    techStack: ["HTML", "CSS", "Javascript", "Firebase"],
+      "A dynamic Laravel application that connects companies with influencers for marketing and event promotion. It streamlines collaborations with features like influencer services, admin controls, a link tree for social profiles, and integrated scheduling via Google Calendar.",
+    link: "https://github.com/Ajayreddy-1234/InfluencerMarketing",
+    techStack: ["Laravel", "PHP", "MySQL", "jQuery"],
   },
 ];
 

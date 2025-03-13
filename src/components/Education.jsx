@@ -23,18 +23,6 @@ const Education = () => {
                   <h3>2018 - 2022</h3>
                   <p>GPA - 8.11 / 10.00</p>
                 </div>
-                <div className="education-item">
-                  <h2>Sri Chaitanya Junior College</h2>
-                  <h3>Senior Seconday Education - State Board</h3>
-                  <h3>2016 - 2018</h3>
-                  <p>Scored 985 / 1000</p>
-                </div>
-                <div className="education-item">
-                  <h2>Vaagdevi High School</h2>
-                  <h3>Secondary Education - SSC</h3>
-                  <h3>2016</h3>
-                  <p>GPA - 10 / 10</p>
-                </div>
               </div>
             </Grid>
             <Grid item sm={12} md={6}>
