@@ -29,7 +29,7 @@ const About = () => {
               </p>
               <ProfileIcons />
               <a
-                href="/"
+                href="https://drive.google.com/file/d/1n-m3nlHg0bbgRIe_ZaOlC8-XZza0aaSa/view?usp=sharing"
                 target="__blank"
               >
                 <button className="btn">SEE MY RESUME</button>

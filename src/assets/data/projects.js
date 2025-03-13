@@ -1,6 +1,6 @@
 const projects = [
   {
-    name: "Ignite Sports Venue Management System",
+    name: "Sports Venue Management System",
     description:
       "A full-stack web solution for managing sports venues and activities. It includes robust venue and activity management, an efficient booking system, secure authentication, email notifications, integrated calendar features, and a responsive React front-end.",
     link: "https://github.com/Ajayreddy-1234/Ignite-Sports-Venue-Managment-System",
