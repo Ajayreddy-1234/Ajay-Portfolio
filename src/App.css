@@ -335,6 +335,9 @@ nav {
 .contact-items {
   padding-top: 2rem;
 }
+.contact-item {
+  padding-left: 5rem;
+}
 .contact-item h2 {
   font-size: 1.8rem;
   word-spacing: 4px;
