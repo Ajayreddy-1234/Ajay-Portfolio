@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Ajay-Portfolio/static/css/main.772338ce.css",
-    "main.js": "/Ajay-Portfolio/static/js/main.5f8c63d7.js",
+    "main.js": "/Ajay-Portfolio/static/js/main.b048461c.js",
     "static/media/mongoDB_logo.png": "/Ajay-Portfolio/static/media/mongoDB_logo.6170bacefd8a1f69ca74.png",
     "static/media/Opt_1.JPG": "/Ajay-Portfolio/static/media/Opt_1.318f521af547b9cb504f.JPG",
     "static/media/csharp_logo.png": "/Ajay-Portfolio/static/media/csharp_logo.d8e9a9289dcc76d931b9.png",
@@ -22,10 +22,10 @@
     "index.html": "/Ajay-Portfolio/index.html",
     "static/media/Azure.svg": "/Ajay-Portfolio/static/media/Azure.228b07dfb10d28d702e3e81ec2156bfe.svg",
     "main.772338ce.css.map": "/Ajay-Portfolio/static/css/main.772338ce.css.map",
-    "main.5f8c63d7.js.map": "/Ajay-Portfolio/static/js/main.5f8c63d7.js.map"
+    "main.b048461c.js.map": "/Ajay-Portfolio/static/js/main.b048461c.js.map"
   },
   "entrypoints": [
     "static/css/main.772338ce.css",
-    "static/js/main.5f8c63d7.js"
+    "static/js/main.b048461c.js"
   ]
 }
